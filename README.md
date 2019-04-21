@@ -24,4 +24,4 @@ If the "id" argument is not defined, the shortcode will try to get the post ID _
 
 Everything comes from: [WooCommerce product additional information shortcode](https://stackoverflow.com/questions/50225929/shortcode-to-display-woocommerce-product-attributes/50228540#50228540)
 
-Made on 2018-05-02 (Updated on 2019-04-22)
+Made on Stack Overflow on 2018-05-02 _(Updated on 2019-04-22)_
