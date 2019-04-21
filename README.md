@@ -21,7 +21,11 @@ If the "id" argument is not defined, the shortcode will try to get the post ID _
     or in php:
     
     `echo do_shortcode("[product_additional_information]");`
+    
+You will get something like:
 
-Everything comes from: [WooCommerce product additional information shortcode](https://stackoverflow.com/questions/50225929/shortcode-to-display-woocommerce-product-attributes/50228540#50228540)
+![alt text](https://i.stack.imgur.com/sOK3f.png)
+
+Everything comes from this thread: [WooCommerce product additional information shortcode](https://stackoverflow.com/questions/50225929/woocommerce-product-additional-information-shortcode/50228540#50228540)
 
 Made on Stack Overflow on 2018-05-02 _(Updated on 2019-04-22)_
