@@ -26,6 +26,6 @@ You will get something like:
 
 ![alt text](https://i.stack.imgur.com/sOK3f.png)
 
-Everything comes from this thread: [WooCommerce product additional information shortcode](https://stackoverflow.com/questions/50225929/woocommerce-product-additional-information-shortcode/50228540#50228540)
+Based on my Stack Overflow answer: [WooCommerce product additional information shortcode](https://stackoverflow.com/questions/50225929/woocommerce-product-additional-information-shortcode/50228540#50228540)
 
 Made on Stack Overflow on 2018-05-02 _(Updated on 2019-04-22)_
