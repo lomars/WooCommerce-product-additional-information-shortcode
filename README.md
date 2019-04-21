@@ -1,5 +1,5 @@
 # Product additional information shortcode <br> _(For WooCommerce)_
-Display additional product information as weight, dimensions and product attributes anywhere.
+> **Display additional product information as weight, dimensions and product attributes anywhere.**
 
 The shortcode has an unique optional "id" argument _(the product id)_.
 If the "id" argument is not defined, the shortcode will try to get the post ID _(checking that is a product Id)_.
