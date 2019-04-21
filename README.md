@@ -1,4 +1,4 @@
-# Product additional information shortcode _(For WooCommerce)_
+# Product additional information shortcode <br> _(For WooCommerce)_
 Display additional product information as weight, dimensions and product attributes anywhere.
 
 The shortcode has an unique optional "id" argument _(the product id)_.
@@ -6,21 +6,21 @@ If the "id" argument is not defined, the shortcode will try to get the post ID _
 
 ### SHORTCODE USAGE
 
-1. With a defined product id:
+1. With a defined "id" argument (the product ID):
 
-    `[product_attributes id='37']`
+    `[product_additional_information id='37']`
     
     or in php:
     
-    `echo do_shortcode("[product_attributes id='37']");`
+    `echo do_shortcode("[product_additional_information id='37']");`
     
-2. In an existing product page _(when **"additional information"** product tab is removed for example)_:
+2. Without a defined "id" argument _(In an existing product page when **"additional information"** product tab is removed for example)_:
 
-    `[product_attributes]`
+    `[product_additional_information]`
     
     or in php:
     
-    `echo do_shortcode("[product_attributes]");`
+    `echo do_shortcode("[product_additional_information]");`
 
 Everything comes from: [WooCommerce product additional information shortcode](https://stackoverflow.com/questions/50225929/shortcode-to-display-woocommerce-product-attributes/50228540#50228540)
 
